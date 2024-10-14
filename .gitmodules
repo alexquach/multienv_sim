@@ -1,9 +1,6 @@
-[submodule "gym-pybullet-drones"]
-	path = gym-pybullet-drones
-	url = https://github.com/makramchahine/gym-pybullet-drones
-[submodule "gaussian-splatting"]
-	path = gaussian-splatting
-	url = https://github.com/alexquach/gaussian-splatting
 [submodule "drone_causality"]
 	path = drone_causality
 	url = https://github.com/makramchahine/drone_causality
+[submodule "gym_pybullet_drones"]
+	path = gym_pybullet_drones
+	url = https://github.com/makramchahine/gym-pybullet-drones
