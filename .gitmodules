@@ -1,6 +1,6 @@
 [submodule "drone_causality"]
 	path = drone_causality
 	url = https://github.com/makramchahine/drone_causality
-[submodule "gym_pybullet_drones"]
-	path = gym_pybullet_drones
+[submodule "pybullet_env"]
+	path = pybullet_env
 	url = https://github.com/makramchahine/gym-pybullet-drones
